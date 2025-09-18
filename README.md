@@ -7,4 +7,4 @@ Criacionais:
 - Factory Method
 - Abstract Factory
 - Builder
-- Singleton
+- Singleton.
