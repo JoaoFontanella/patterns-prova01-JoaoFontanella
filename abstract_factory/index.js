@@ -43,7 +43,7 @@ class CarFactory extends VehicleFactory {
   }
 }
 
-class WindowFactory extends VehicleFactory {
+class TruckFactory extends VehicleFactory {
   createSmallVehicle() {
     return new Truck();
   }
